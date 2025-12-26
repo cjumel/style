@@ -1,0 +1,8 @@
+# Prject-local stuff
+\.git
+\.gitignore
+\.nvim\.lua
+^/Makefile
+
+# Documentation
+.*\.md
