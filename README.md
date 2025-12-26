@@ -19,8 +19,8 @@ file doesn't cover how to do so.
 ### Cloning the repository
 
 For Stow to work, the content of this repository needs to be cloned **precisely** inside a
-sub-directory of your home directory (the directory name is not important). For instance, you can
-clone this repository with:
+sub-directory of the directory you want to put the configuration files in (the directory name is not
+important). For instance, to put them in your home directory, you can clone this repository with:
 
 ```bash
 git clone --depth=1 https://github.com/cjumel/style.git ~/style
