@@ -1,4 +1,8 @@
 [global]
+exclude = [
+  "**/scratch-files/**.markdown", # Used by Snacks.nvim
+  "/private/**.md", # Used by OpenCode when calling `$EDITOR` to edit the prompt
+]
 line-length = 100
 
 [MD013]
