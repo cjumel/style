@@ -13,3 +13,6 @@ allow-lazy-continuation = false
 
 [MD033]
 allowed-elements = ["details", "summary"]
+
+[MD041]
+front-matter-title-pattern = "^(title|header|name):"
