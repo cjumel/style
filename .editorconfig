@@ -60,6 +60,8 @@ indent_style = tab
 indent_size = 8
 
 [COMMIT_EDITMSG]
+indent_style = space
+indent_size = 2
 max_line_length = 72
 
 [Makefile]
